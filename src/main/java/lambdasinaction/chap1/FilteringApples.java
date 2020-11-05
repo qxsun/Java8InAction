@@ -9,6 +9,7 @@ public class FilteringApples{
 
         List<Apple> inventory = Arrays.asList(new Apple(80,"green"),
                                               new Apple(155, "green"),
+                                              new Apple(156, "green1"),
                                               new Apple(120, "red"));	
 
         // [Apple{color='green', weight=80}, Apple{color='green', weight=155}]
